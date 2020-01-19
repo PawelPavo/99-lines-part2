@@ -14,7 +14,6 @@ $('button').on('click', function () {
         } else if (line === 1) {
             $('.h' + [i]).append("<p>" + line + " line of code in the file, " + line + " lines of code; " + name + " strikes one out, clears it all out, no more lines of code in the file </p>");
             if (i === friends.length) {
-                i++;
                 console.log('Song is OVER...Thank you!')
                 $('button').off('click')
             }

@@ -1,5 +1,5 @@
 # 99 Lines of Code In The File - Part 2
-# This is modified do be coded in jQuery
+# This is modified to be coded in jQuery
 
 Covalence
 
